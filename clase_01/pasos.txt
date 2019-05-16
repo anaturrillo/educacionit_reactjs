@@ -1,0 +1,22 @@
+mkdir app
+cd app
+npm init
+
+npm install webpack --save-dev
+npm install webpack-cli --save-dev
+
+npm install --save-dev @babel/core @babel/cli @babel/preset-env
+npm install --save @babel/polyfill
+npm install --save-dev @babel/preset-react
+npm install --save babel-loader
+
+crear .babelrc
+crear webpack.config.js
+crear dist/index.html
+crear src/index.js
+
+probar un console.log
+
+npm install --save react react-dom
+
+renderizar un componente de react en index.js
