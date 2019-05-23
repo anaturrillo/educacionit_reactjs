@@ -11,7 +11,13 @@ npm install --save-dev @babel/preset-react
 npm install --save babel-loader
 
 crear .babelrc
+https://babeljs.io/docs/en/usage
+https://babeljs.io/docs/en/babel-preset-react#docsNav
+
 crear webpack.config.js
+https://webpack.js.org/guides/getting-started
+https://webpack.js.org/loaders/babel-loader/#root
+
 crear dist/index.html
 crear src/index.js
 
@@ -20,3 +26,4 @@ probar un console.log
 npm install --save react react-dom
 
 renderizar un componente de react en index.js
+
